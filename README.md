@@ -41,7 +41,7 @@ To use this node, you'll need a Lunch Money API Access Token:
 
 ## Documentation
 
-- [Lunch Money API Reference](https://lunchmoney.dev/)
+- [Lunch Money API Reference](https://alpha.lunchmoney.dev/v2/docs)
 - [n8n Community Nodes Documentation](https://docs.n8n.io/integrations/community-nodes/)
 
 ## License
